@@ -1,0 +1,14 @@
+body {
+    padding:10px 30px;
+    background-color: #B0E0E6;
+}
+.card-header {
+    background-color: #FF6347;
+}
+.cardtext-center { 
+    width: 450px;
+    height: 300px;
+    border-radius: 15px;
+    background-color: Snow;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
